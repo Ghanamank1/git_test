@@ -1,0 +1,1 @@
+THIS IS K.O.'S FIRST GIT PROJECT! (well technecally second, since there is already the my_first_rails_app one. but that it rails!!! ;) ) 
